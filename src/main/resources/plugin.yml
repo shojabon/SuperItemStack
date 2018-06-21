@@ -1,0 +1,4 @@
+name: SuperItemStack
+version: ${project.version}
+main: com.shojabon.superitemstack.SuperItemStack
+authors: [Sho0]
